@@ -1,0 +1,8 @@
+src/main/resources/
+/database.db
+/test.db
+/12345/
+/build/
+/db/
+/.jython_cache/
+/.idea/
